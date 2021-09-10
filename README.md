@@ -3,7 +3,8 @@
 1.General Information 2.Technologies 3.Live Demo 4.Features
 # 1.General Information
 I have created a photography site where you can see many beautiful pictures of nature.
-You will get mesmerized by seeing those pictures. I have added nav bar so that you can go to particular photo directly.
+You will get mesmerized by seeing those pictures. I have added nav bar so that you can go to particular photo directly.<br/>
+This website is fully responsive.
 # 2.Technologies
 HTML <br/>
 CSS
