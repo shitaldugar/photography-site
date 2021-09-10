@@ -24,20 +24,82 @@
      font-size: 24px;
      font-weight: 100;
  }
- a{
+ .view-work{
      border-radius:50px;
-     background-color: white;
+     background-color:brown;
      font-size:larger;
      border:1px solid #C4C3C2;
      text-decoration: none;
      padding:20px;
-     color:grey
+     color:#161616
    }
- a:hover{
+ .view-work:hover{
      background-color:#d6d5d3;
      cursor:pointer;
     }
- .second-box{
+    .action{
+        padding:30px
+    }
+    .one{
+        text-decoration: none;
+        background-color:rgb(204, 0, 255);
+        font-size: large;
+        padding: 3px;
+        font-weight: bolder;
+    
+    }
+    .one:hover{
+        background-color:aqua;
+        cursor:pointer;
+
+    }
+    .two{
+        text-decoration: none;
+        background-color: tomato;
+        font-size: large;
+        padding: 3px;
+        font-weight: bolder;
+    }
+    .two:hover{
+        background-color:aqua;
+        cursor:pointer;
+    }
+    .three{
+        text-decoration: none;
+        background-color:rgb(4, 243, 4);
+        font-weight: bolder;
+        font-size: large;
+        padding: 3px;
+    }
+    .three:hover{
+        background-color:aqua;
+        cursor:pointer;
+    }
+    .four{
+        text-decoration: none;
+        background-color:rgb(1, 152, 253);
+        font-size: large;
+        padding: 3px;
+        font-weight: bolder;
+    }
+    .four:hover{
+        background-color:aqua;
+        cursor:pointer;
+    }
+    .five{
+        text-decoration: none;
+        background-color: yellowgreen;
+        font-size: large;
+        padding: 3px;
+        font-weight: bolder;
+    }
+    .five:hover{
+        background-color:aqua;
+        cursor:pointer;
+    }
+
+
+.second-box{
     width:850px;
     height:600px;
     justify-content:center;
